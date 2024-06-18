@@ -26,8 +26,8 @@
 
 
 ## Distributed Redis Solutions 
+<img width="794" alt="Capture d’écran 2024-06-18 à 12 59 28" src="https://github.com/ybf34/distributedcaching-benchmarks/assets/55197714/790fdede-4fe9-496c-90bc-0482736f9957">
 
-![image](https://github.com/ybf34/distributedcaching-benchmarks/assets/55197714/f84db166-a309-44f2-b15f-5bff61377265)
 
 
 | Tools                              | Amazon ElastiCache Redis                        | Redis Enterprise                                             |
