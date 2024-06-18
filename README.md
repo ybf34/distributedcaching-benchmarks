@@ -5,7 +5,7 @@
 - Faster responses times, better user experience
 - Micro-services may dependent on each other to full fill requests, having a distributed cache reduces micro-services network traffic leading to a lower latency
 - reduce load on databases (reduce costs)
-- Improves fault tolerancen, micro-services can continue functioning with cached data even if the primary database becomes unavailable
+- Improves fault tolerancen, micro-services can continue functioning with cached data even if the primary database temporary becomes unavailable
   
 
 ## Tools Comparison
